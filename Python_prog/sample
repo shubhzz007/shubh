@@ -1,0 +1,12 @@
+#print(list(combinations(queu,2)))
+
+        '''cnt = 0
+        for i in queu:
+            print("i :",i)
+            for j in queu:
+                print("j :", j)
+                if i=='x' and j=='y' or i=='y' and j=='x':
+                    cnt = cnt+1
+                    #queu.remove(i)
+                    #queu.remove(j)
+                    return cnt'''
